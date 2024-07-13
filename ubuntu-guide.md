@@ -92,7 +92,7 @@ sudo apt install vim
 sudo apt install neovim
 ```
 
-## Flathub and flathub
+## Flatpak and Flathub
 ```
 sudo apt install flatpak
 sudo add-apt-repository ppa:flatpak/stable
